@@ -140,6 +140,3 @@ Make sure `ab_data.csv` is in the same directory as the notebook.
 └── README.md        # This file
 ```
 
-## Author
-
-**Ulas** — MSc Mathematics | Aspiring ML Engineer
